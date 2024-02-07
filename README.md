@@ -1,5 +1,5 @@
 # Diego
-- Atualmente trabalho com telecomunicações, especificamente com infraestrutura de redes
+- Atualmente trabalho com telecom, especificamente com infraestrutura de redes
 - Estudando Ciências de Dados
 - E-mail para contato: diego.coronel@ufms.br
 
